@@ -1,0 +1,7 @@
+Number_Input_reads	Number_Uniquely_Mapped	Percent_Uniquely_Mapped	Number_Mapped_multiLoci	Percent_Mapped_multiLoci	Number_Mapped_manyLoci	Percent_Mapped_manyLoci	Number_Reads_unmapped.short	Percent_reads_unmapped.short	Number_reads_unmapped.other	Percent_reads_unmapped.other
+P13N	12305890	10972245	89.16%	228593	1.86%	29369	0.24%	1063004	8.64%	12679	0.10%
+P22N	7378237	6576548	89.13%	137570	1.86%	12226	0.17%	646449	8.76%	5444	0.07%
+P34A	14791474	13838492	93.56%	202151	1.37%	53451	0.36%	681788	4.61%	15592	0.11%
+P37N	14755627	13373512	90.63%	229585	1.56%	46324	0.31%	1093034	7.41%	13172	0.09%
+P38A	11058995	6732082	60.87%	126158	1.14%	16522	0.15%	4178444	37.78%	5789	0.05%
+P9A	13131274	12255038	93.33%	173362	1.32%	27535	0.21%	665830	5.07%	9509	0.07%
